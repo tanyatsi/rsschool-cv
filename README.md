@@ -1,2 +1,2 @@
 # rsschool-cv
-https://tanyatsi.github.io/rsschool-cv/cv
+[CV](https://tanyatsi.github.io/rsschool-cv/cv "CV")
