@@ -32,3 +32,4 @@ I´m always looking for an opportunity to do better.
   + German С1 
   + English A 1-2 
         
+
