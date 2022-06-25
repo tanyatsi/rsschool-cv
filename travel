@@ -58,9 +58,9 @@
 <div class="layout-3-column tool-container">
     <div class="tool">
         <div class="tool__icon">
-            <span class="icon-square icon-square_orange_bicycle">
-                <span class="ico ico_arrow"></span>
-            </span>
+            <span class="icon-square icon-square_orange_bicycle"></span>
+                <span class="icon-square icon-square_orange_notebuk"></span>
+                <span class="ico icon-square_orange_airplane"></span>
         </div>
         </div>
     </header>
