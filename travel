@@ -9,7 +9,14 @@
 <body>
     <header class="header">
         <a href="#" class="logo">
-<nav></nav>
+            <nav class="header__navigation">
+                <ul class="navigation">
+                    <li class="navigation__link">Home</li>
+                    <li class="navigation__link">Services</li>
+                    <li class="navigation__link">About</li>
+                    <li class="navigation__link">Product</li>
+                </ul>
+            </nav>
     </header>
     
 </body>
