@@ -4,23 +4,64 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Travel</title>
+    <title>Travel Portal</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:400,700&display=swap" rel="stylesheet">
 </head>
 <body>
     <header class="header">
-        <a href="#" class="logo">
+        <div class="wrapper header__wrapper">
+            <div class="header__logo-line">
+                <span class="header__hamburger hamburger"><span class="hamburger__line"></span></span>
+                <a href="#" class="logo">
+                    <object type="image/svg+xml" data="./src/img/logo.svg" class="logo-object">
+                        Your browser does not support SVG
+                     </object>
+                </a>
+            </div>
             <nav class="header__navigation">
                 <ul class="navigation">
-                    <li class="navigation__link">Home</li>
-                    <li class="navigation__link">Services</li>
-                    <li class="navigation__link">About</li>
-                    <li class="navigation__link">Product</li>
+                    <li class="navigation__link">How It Works</li>
+                    <li class="navigation__link">Travel Stories</li>
+                    <li class="navigation__link">Destination</li>
+                    <li class="navigation__link">Travel Stories</li>
                 </ul>
             </nav>
-            <div class="header__buttons">
-                <button class="button button_bordered">Sign In</button>
-                <button class="button button_colored">Sign Up</button>
+            <div class="header__button">
+                <button class="button_green">Login</button>
             </div>
+        </div>
+    </header>
+    <section class="promo">
+        <div class="wrapper promo__wrapper">
+            <div class="promo__content">
+                <h1 class="promo__title">Explore the beauty of the World</h1>
+                <p class="promo__text">What would you like to do?
+                
+                    Receive personalized recommendations for countries, hotels, activities and more</p>
+                <div class="promo__buttons">
+                    <button class="button_green">Start Planning</button>
+                    <a href="#" class="link-button">
+                        <span class="ico ico_play"></span>
+                    </a>
+                </div>
+            </div>
+            <img src="./src/img/promo/promo.png" class="promo__image" alt="The Design Thinking superpowers">
+        </div>
+    </section>
+</div>
+<img src="./src/img/promo/promo.png" class="promo__image" alt="The Design Thinking superpowers">
+</div>
+</section>
+<section class="tools">
+<div class="wrapper tools__wrapper">
+<h2 class="tools__title">3 STEPS TO THE PERFECT TRIP</h2>
+<div class="layout-3-column tool-container">
+    <div class="tool">
+        <div class="tool__icon">
+            <span class="icon-square icon-square_orange_bicycle">
+                <span class="ico ico_arrow"></span>
+            </span>
+        </div>
         </div>
     </header>
     
